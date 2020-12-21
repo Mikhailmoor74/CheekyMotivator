@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CheekyMotivator</string>
+    <string name="Login">Вход</string>
+    <string name="registration">Регистрация</string>
+    <string name="hello">Привет,</string>
+    <string name="firsttext">Может пора уже поднять свою пятую точку и что нибудь сделать?</string>
 </resources>
